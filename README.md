@@ -29,7 +29,7 @@ This portfolio was built to highlight my professional journey, passion projects,
 
 ## Live Portfolio
 
-LIVE PORTFOLIO WILL BE ADDED SOON!
+[www.erinemc.dev](https://www.erinemc.dev)
 
 ## Contact Me
 
@@ -41,7 +41,7 @@ I'm always open to connecting! Feel free to reach out through any of the followi
 - Instagram: [emcdev](https://www.instagram.com/emcdev)
 - TikTok: [@erinemcdev](https://www.tiktok.com/@erinemcdev)
 - Facebook: [EMCdev](https://www.facebook.com/people/EMCdev/61572282765066/#)
-<!-- - Website/Portfolio: [yourportfolio.com](https://yourportfolio.com) -->
+- Website/Portfolio: [www.erinemc.dev](https://www.erinemc.dev)
 
 ### Copyright EMCdev 2025.
 ### All rights reserved.
